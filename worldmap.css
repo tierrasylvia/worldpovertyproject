@@ -1,0 +1,587 @@
+body {
+  margin: 0;
+  height: 100vh;
+  /*display: flex;
+  justify-content: center;
+  align-items: center;
+  overflow: hidden;*/
+}
+svg {
+  width: 90vw;
+  height: 90vh;
+}
+path {
+  fill: gray;
+  cursor: pointer;
+}
+path:hover {
+  fill: orange;
+}
+/*Australia*/
+.AU {
+  fill: gray;
+}
+
+.AE {
+  fill: #00FF7F;
+}
+.BD {
+fill: #00FF7F;
+}
+.BE {
+  fill: gray;
+}
+.BF {
+ fill: blue;
+}
+.BG {
+  fill: gray;
+}
+.BI {
+  fill: orange;
+}
+/*Benin*/
+.BJ {
+  fill: gray;
+}
+.BN {
+  fill: gray;
+}
+.BO {
+  fill: blue;
+}
+.BR {
+  fill: gray
+}
+.BS {
+  fill: gray;
+}
+/*Bhutan*/
+.BT {
+  fill: gray;
+}
+.BW {
+  fill: gray;
+}
+/*Switzerland*/
+.CH{
+  fill: gray;
+}
+/*Central African Republic*/
+.CF{
+  fill: blue;
+}
+/*Congo*/
+.CG {
+  fill: gray;
+}
+/*Cote D'Ivoire*/
+.CI {
+  fill: gray;
+}
+.CL {
+  fill: gray;
+}
+.CU {
+  fill: gray;
+}
+.CY {
+  fill: gray;
+}
+/*Dijibouti*/
+.DJ {
+  fill: gray;
+}
+.EE {
+  fill: gray;
+}
+/*Eritrea*/
+.ER {
+  fill: gray;
+}
+.FK {
+  fill: gray;
+}
+.GF {
+  fill: gray;
+ }
+/*Ghana*/
+.GH {
+  fill: gray;
+}
+/*Mexico*/
+.MX {
+  fill: gray;
+}
+/*China*/
+.CN {
+  fill: gray;
+}
+.US {
+  fill: gray;
+}
+.GR {
+  fill: gray;
+}
+.IT {
+  fill: gray;
+}
+.RU {
+  fill: gray;
+}
+/*Mongolia*/
+.MN {
+  fill: gray;
+}
+.SA {
+  fill: gray;
+}
+.CA {
+  fill: gray;
+}
+.AR {
+  fill: gray;
+}
+.IE {
+  fill: gray;
+}
+/*Sudan*/
+.SD {
+  fill: gray;
+}
+.AE {
+  fill: gray;
+}
+/*Afghanistan*/
+.AF {
+  fill: blue;
+}
+.AM {
+  fill: gray;
+}
+/*Austria*/
+.AT {
+  fill: gray;
+}
+.AZ {
+  fill: gray;
+}
+.BA {
+  fill: gray;
+}
+/*Bangladesh*/
+.BD {
+  fill: blue;
+}
+.BE {
+  fill: gray;
+}
+.BF {
+  fill: blue;
+}
+.BG {
+  fill: gray;
+}
+/*Burundi*/
+.BI {
+  fill: blue;
+}
+/*Botswana*/
+.BW {
+  fill: gray;
+}
+.BY {
+  fill: gray;
+}
+/*Democratic Republic of Congo*/
+.CD {
+  fill: blue;
+
+}
+.CO {
+  fill: gray;
+}
+.CZ {
+  fill: gray;
+}
+.ID {
+  fill: gray;
+}
+.DE{
+  fill: gray;
+}
+/*Denmark*/
+.DK {
+  fill: gray;
+}
+/*Dominican Republic*/
+.DO {
+  fill: gray;
+}
+.DZ {
+  fill: gray;
+}
+/*Ecuador*/
+.EC {
+  fill: blue;
+}
+.EG {
+  fill: gray;
+}
+/*Western Sahara*/
+.EH {
+  fill: gray;
+}
+/*Spain*/
+.ES {
+  fill: gray;
+}
+/*Ethiopia*/
+.ET{
+  fill: gray;
+}
+.FI {
+  fill: gray;
+}
+/*France*/
+.FR {
+  fill: gray;
+}
+/*Gabon*/
+.GA {
+  fill: gray;
+}
+.GB{
+  fill: gray;}
+.GE {
+  fill: gray;
+}
+.GL {
+  fill: gray;
+}
+/*Guinea*/
+.GN {
+  fill: gray;
+}
+/*Guyana*/
+.GY {
+  fill: blue;
+}
+.HR {
+  fill: gray;
+}
+/*Haiti*/
+.HT {
+  fill: gray;
+}
+/*Hungary*/
+.HU {
+  fill: gray;
+}
+.IN {
+  fill: gray;
+}
+.IQ {
+  fill: gray;
+}
+.IR {
+  fill: gray;
+}
+.IS {
+  fill: gray;
+}
+.JO {
+  fill: gray;
+}
+.JP {
+  fill: gray;
+}
+/*Jamaica*/
+.JM {
+  fill: gray;
+}
+/*Kenya*/
+.KE {
+  fill: gray;
+}
+/*Kyrgyzstan*/
+.KG {
+  fill: gray;
+}
+/*Cambodia*/
+.KH {
+  fill: gray;
+}
+/*North Korea*/
+.KP {
+  fill: blue;
+}
+/*South Korea*/
+.KR {
+  fill: gray;
+}
+.KZ {
+  fill: gray;
+}
+.LA {
+  fill: gray;
+}
+.LB {
+  fill: gray;
+}
+.LK {
+  fill: gray;
+}
+/*Lithuania*/
+.LT {
+  fill: gray;
+}
+.LV {
+  fill: gray;
+}
+.LY {
+  fill: gray;
+}
+/*Morocco*/
+.MA {
+  fill: gray;
+}
+.MD {
+  fill: gray;
+}
+/*Madagascar*/
+.MG {
+  fill: gray;
+}
+/*Macedonia*/
+.MK {
+  fill: gray;
+}
+.ML  {
+  fill: blue;
+}
+/*Myanmar*/
+.MM {
+  fill: blue;
+}
+.MR {
+  fill: blue;
+}
+/*Malawi*/
+.MW {
+  fill: blue;
+}
+/*Malaysia*/
+.MY {
+  fill: gray;
+}
+/*Mozambique*/
+.MZ {
+  fill: gray;
+}
+/*Nambia*/
+.NA {
+  fill: gray;
+}
+.NC {
+  fill: gray;
+}
+/*Niger*/
+.NE {
+  fill: gray;
+}
+/*Nigeria*/
+.NG {
+  fill: gray;
+}
+/*Netherlands*/
+.NL {
+  fill: gray;
+}
+.NO {
+  fill: gray;
+}
+/*Nepal*/
+.NP  {
+  fill: blue;
+}
+.NZ {
+  fill: gray;
+}
+.OM {
+  fill: gray;
+}
+/*Peru*/
+.PE {
+  fill: blue;
+}
+/*Papua New Guinea*/
+.PG {
+  fill: blue;
+}
+.PH {
+  fill: blue;
+}
+.PK {
+  fill: blue;
+}
+.PL {
+  fill: gray;
+}
+/*Portugal*/
+.PT {
+  fill: gray;
+}
+/*Paraguay*/
+.PY {
+  fill: blue;
+}
+.RO {
+  fill: gray;
+}
+.RS {
+  fill: gray;
+}
+/*Rwanda*/
+.RW {
+  fill: gray;
+}
+.SB {
+  fill: gray;
+}
+.SE {
+  fill: gray;
+}
+.SI {
+  fill: gray;
+}
+.SJ {
+  fill: gray;
+}
+.SK {
+  fill: gray;
+}
+.SL {
+  fill: blue;
+}
+.SN {
+  fill: blue;
+}
+.SO {
+  fill: blue;
+}
+/*Suriname*/
+.SR {
+  fill: gray;
+}
+/*South Sudan*/
+.SS {
+  fill: gray;
+}
+.SY {
+  fill: gray;
+}
+/*Swaziland*/
+.SZ {
+  fill: gray;
+}
+/*Chad*/
+.TD {
+  fill: gray;
+}
+.TF {
+  fill: gray;
+}
+/*Thailand*/
+.TH {
+  fill: gray;
+}
+.TJ {
+  fill: blue;
+}
+.TL {
+  fill: gray:
+}
+.TM {
+  fill: gray;
+}
+/*Tunisia*/
+.TN {
+  fill: gray;
+}
+.TR {
+  fill: gray;
+}
+/*Taiwan*/
+.TW {
+  fill: gray;
+}
+/*Tanzia*/
+.TZ {
+  fill: gray;
+}
+.UA {
+  fill: gray;
+}
+/*Uganda*/
+.UG {
+  fill: gray;
+}
+.UY {
+  fill: gray;
+}
+.UZ {
+  fill: gray;
+}
+.VE {
+  fill: gray;
+}
+.VN {
+  fill: blue;
+}
+.YE {
+  fill: gray;
+}
+/*South Africa*/
+.ZA {
+  fill: gray;
+}
+/*Zambia*/
+.ZM {
+  fill: gray;
+}
+/*Somewhere in Africa*/
+.ZW {
+  fill: gray;
+}
+/*Panama*/
+.PA {
+  fill: gray;
+}
+/*Honduras*/
+.HN {
+  fill: gray;
+}
+/*Guatemala*/
+.GT {
+  fill: gray;
+}
+/*Nicaragua*/
+.NI {
+  fill: gray;
+}
+.CR {
+  fill: gray;
+}
+/*Angolia*/
+.AO {
+  fill: gray;
+}
+/*Gabon*/
+.GA {
+  fill: gray;
+}
+/*Cameroon*/
+.CM {
+  fill: gray;
+}

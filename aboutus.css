@@ -1,0 +1,11 @@
+li {
+    float: left;
+    list-style-type: none;
+}
+
+a {
+    display: block;
+    padding: 32px;
+    color: #000000;
+    /*background-color: #DCDCDC;*/
+}
